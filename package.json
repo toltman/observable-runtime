@@ -1,0 +1,14 @@
+{
+  "name": "8eedaf343fbf468a",
+  "main": "8eedaf343fbf468a@452.js",
+  "version": "452.0.0",
+  "homepage": "https://observablehq.com/d/8eedaf343fbf468a",
+  "author": {
+    "name": "Tim Oltman",
+    "url": "https://observablehq.com/@toltman"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
